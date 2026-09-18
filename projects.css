@@ -36,7 +36,7 @@ nav{
 .logo{
     font-size: 1.8rem;
     font-weight: 700;
-    color: rgb(36, 36, 128);
+    color: rgb(183, 15, 15);
     letter-spacing: 1px;
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgba(255, 255, 255, 0.00);
@@ -50,11 +50,11 @@ nav{
     gap: 2rem;
 }
 .navlinks li a:hover{
-    color: rgb(36, 36, 128);
-    text-shadow: 0 0 10px rgb(36, 36, 128);
+    color: rgb(183, 15, 15);
+    text-shadow: 0 0 10px rgb(183, 15, 15);
 }
 .btn{
-    background-color: rgb(36, 36, 128);
+    background-color: rgb(183, 15, 15);
     color: white;
     border: none;
     outline: none;
@@ -67,7 +67,7 @@ nav{
     cursor: pointer;
     transition: 0.3s ease;
     font-size: medium;
-    box-shadow: 0 0 15px rgb(36, 36, 128);
+    box-shadow: 0 0 15px rgb(183, 15, 15);
 }
 .btn:hover{
     background-color:rgb(204, 30, 30) ;
@@ -127,7 +127,7 @@ nav{
    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 .flip-card-front{
-    background-image: url(img/spotify.jpg);
+    background-image: url(img/OIP.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -154,18 +154,18 @@ nav{
     margin-bottom:50px;
 }
 .flip-card-front2{
-    background-image: url(img/guitar.jpg);
+    background-image: url(img/calculator.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .flip-card-front3{
-    background-image: url(img/facetime.jpg);
+    background-image: url(img/snake.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
-.Hobbies-title{
+.Projects-title{
   text-align: center;
   font-size: 45px;
   margin: 40px 0 25px 0;
